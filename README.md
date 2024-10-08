@@ -9,7 +9,7 @@ work in progress
 
 ## Компиляция 
 
-Компилирование происходит в Qt Creator или же через CMake. Для работы необходимо скачать исходный код <a href="https://www.qt.io/download-open-source?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5">Qt 6.2</a>
+Компилирование происходит в Qt Creator или же через qmake. Для работы необходимо скачать исходный код <a href="https://www.qt.io/download-open-source?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5">Qt 6.2</a>
 
 
 ## Клиент 
